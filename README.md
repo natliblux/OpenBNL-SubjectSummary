@@ -12,4 +12,5 @@ The notebook retrieves a list of subjects for each newspaper in eLuxemburgensia.
 The notebook can be run online using [Binder/JupyterLab]().
 ## Result
 Below is a sample of the results produced by this project.
-![Sample results]()
+![Sample results - Subjects per Newspaper](Sample%20Results%20-%20Subjects%20per%20Newspaper.png)
+![Sample results - Newspapers for Chosen Subject](Sample%20Results%20-%20Newspapers%20for%20Chosen%20Subject.png)
