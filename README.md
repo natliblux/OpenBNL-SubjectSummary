@@ -9,7 +9,7 @@ The notebook retrieves a list of subjects for each newspaper in eLuxemburgensia.
 * [pandas](https://pandas.pydata.org/): format the output into tabular layout
 * [xml minidom](https://docs.python.org/3/library/xml.dom.minidom.html): converting XML received from the OAI call into a Document Object Model interface
 ## Usage
-The notebook can be run online using [Binder/JupyterLab]().
+The notebook can be run online using [Binder/JupyterLab](https://mybinder.org/v2/gh/natliblux/OpenBNL-SubjectSummary/f13cab7db9d1b1da05d32d4ffdff90dbaab5daac?urlpath=lab%2Ftree%2Fsrc%2FOAI%20Subject%20Summary.ipynb).
 ## Result
 Below is a sample of the results produced by this project.
 ![Sample results - Subjects per Newspaper](Sample%20Results%20-%20Subjects%20per%20Newspaper.png)
